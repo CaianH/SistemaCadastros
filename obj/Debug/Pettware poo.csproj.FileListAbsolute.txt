@@ -1,0 +1,15 @@
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\bin\Debug\Pettware poo.exe.config
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\bin\Debug\Pettware poo.exe
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\bin\Debug\Pettware poo.pdb
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\obj\Debug\Pettware poo.csprojAssemblyReference.cache
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\obj\Debug\Pettware_poo.Properties.Resources.resources
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\obj\Debug\Pettware poo.csproj.GenerateResource.cache
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\obj\Debug\Pettware poo.csproj.CoreCompileInputs.cache
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\obj\Debug\Pettware poo.exe
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\obj\Debug\Pettware poo.pdb
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\obj\Debug\Pettware_poo.View.CadProduto.resources
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\obj\Debug\Pettware_poo.View.ConsultarProduto.resources
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\obj\Debug\Pettware_poo.Menu.resources
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\obj\Debug\Pettware_poo.View.CadastrarCliente.resources
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\obj\Debug\Pettware_poo.View.CadastrarFuncionario.resources
+C:\Users\caian\OneDrive\Documentos\POO\Pettware poo\obj\Debug\Pettware_poo.View.CadastrarFornecedor.resources
